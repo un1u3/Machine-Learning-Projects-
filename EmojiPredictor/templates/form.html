@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Emoji Predictor</title>
+</head>
+<body>
+    <h2>Predict Your Emoji!</h2>
+    <form action="/predict" method="POST">
+        <label>Age:</label><br>
+        <input type="number" name="age" required><br><br>
+
+        <label>Gender (0 = Male, 1 = Female):</label><br>
+        <input type="number" name="gender" required><br><br>
+
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if prediction %}
+        <h3>{{ prediction }}</h3>
+    {% endif %}
+</body>
+</html>
