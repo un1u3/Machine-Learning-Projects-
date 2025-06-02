@@ -1,0 +1,32 @@
+company,job,degree,salaryMoreThan100k
+Google,Software Engineer,Bachelor,TRUE
+Google,Data Analyst,Bachelor,FALSE
+Google,Product Manager,Master,TRUE
+Google,Software Engineer,Master,TRUE
+Google,Data Analyst,Master,FALSE
+Google,Product Manager,Bachelor,TRUE
+Google,Software Engineer,PhD,TRUE
+Google,Data Analyst,Bachelor,FALSE
+Google,Product Manager,Master,TRUE
+Google,Software Engineer,Bachelor,TRUE
+Microsoft,Software Engineer,Bachelor,TRUE
+Microsoft,Data Analyst,Bachelor,FALSE
+Microsoft,Product Manager,Master,TRUE
+Microsoft,Software Engineer,Master,TRUE
+Microsoft,Data Analyst,Master,FALSE
+Microsoft,Product Manager,Bachelor,TRUE
+Microsoft,Software Engineer,PhD,TRUE
+Microsoft,Data Analyst,Bachelor,FALSE
+Microsoft,Product Manager,Master,TRUE
+Microsoft,Software Engineer,Bachelor,TRUE
+Amazon,Software Engineer,Bachelor,TRUE
+Amazon,Data Analyst,Bachelor,FALSE
+Amazon,Product Manager,Master,TRUE
+Amazon,Software Engineer,Master,TRUE
+Amazon,Data Analyst,Master,FALSE
+Amazon,Product Manager,Bachelor,TRUE
+Amazon,Software Engineer,PhD,TRUE
+Amazon,Data Analyst,Bachelor,FALSE
+Amazon,Product Manager,Master,TRUE
+Amazon,Software Engineer,Bachelor,TRUE
+
